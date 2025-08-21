@@ -1,0 +1,1 @@
+This is a simple index.html file that contains the the HTML code for a basic webpage.
